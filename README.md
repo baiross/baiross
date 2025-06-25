@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ross Vincent C. Rabanos
 
-<!--
-**baiross/baiross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **React Native Developer with 6+ Years of Experience**  
+📍 Based in Cebu, Philippines  
+📧 rabanos.rvc@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ross-rabanos/) • [GitHub](https://github.com/baiross)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, PHP, Kotlin, Java  
+**Mobile:** React Native, Expo, Android Native  
+**State Management:** Redux  
+**Databases:** Realm DB, Firebase Firestore  
+**Backend & APIs:** Node.js, REST  
+**Tools:** Git, VS Code, Android Studio, Xcode
